@@ -5,7 +5,7 @@ const App = () => {
   const [textColor, setTextColor] = useState('black');
 
   const handleButtonPress = () => {
-    const randomColor = ‘red’;
+    const randomColor = 'red';
     setTextColor(randomColor);
   };
 
